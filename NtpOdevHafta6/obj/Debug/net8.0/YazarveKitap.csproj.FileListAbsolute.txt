@@ -1,0 +1,4 @@
+C:\Users\emine\source\repos\NtpOdevHafta6\NtpOdevHafta6\obj\Debug\net8.0\YazarveKitap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emine\source\repos\NtpOdevHafta6\NtpOdevHafta6\obj\Debug\net8.0\YazarveKitap.AssemblyInfoInputs.cache
+C:\Users\emine\source\repos\NtpOdevHafta6\NtpOdevHafta6\obj\Debug\net8.0\YazarveKitap.AssemblyInfo.cs
+C:\Users\emine\source\repos\NtpOdevHafta6\NtpOdevHafta6\obj\Debug\net8.0\YazarveKitap.csproj.CoreCompileInputs.cache
